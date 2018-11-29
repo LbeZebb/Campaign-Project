@@ -1,0 +1,24 @@
+.heading{
+    display:flex;
+    justify-content:center;
+   
+}
+.sub{
+    display:flex;
+    justify-content:center;
+    
+}
+img{
+    width:300px;    
+    height:400px;
+}
+
+.ok{
+    display:flex;
+    border:DASHED red 5px;
+    background-color:gold;
+}
+h1{
+    background:url("https://i.pinimg.com/originals/90/30/8a/90308a5b10c3e9f1adc21d128bf2754b.gif");
+    COLOR:red;
+}
